@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+footer {
+    text-align: center;
+}
+
+body {
+    /* background-color: wheat; */
+    color: gray;
+    font-family: 'Poppins';
+}
+
+table#nav {
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    border-radius: 10px;
+}
+
+table#nav a {
+    text-decoration: none;
+    color: gray;
+}
+
+table#nav td {
+    background-color: wheat;
+    border-radius: 10px;
+    width: 20%;
+}
+
+h1 {
+    background-color: wheat;
+    color: gray;
+    border: 3px solid gray;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
+
+
+ul li a {
+    color: gray;
+}
+
+
+
+
+/* Forms style */
+input {
+    border: 1px solid gray;
+    background-color: wheat;
+    border-radius: 4px;
+    padding: 3px;
+}
+
+.btn {
+    color: gray;
+    background-color: wheat;
+    border-radius: 5px;
+    padding: 5px 30px;
+    font-size: medium;
+}
+
+textarea {
+    background-color: wheat;
+    border-radius: 5px;
+    font-family: 'Poppins';
+}
+
+select {
+    background-color: wheat;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 0 10px;
+    font-family: 'Poppins';
+    color: gray;
+}
+
+#rating {
+    accent-color: gray;
+}
+
+
+.frm {
+    text-align: center;
+    width: 100%;
+    /* background-color: wheat; */
+}
+
+.frm td {
+    width: 30%;
+    padding-bottom: 8px;
+}
+
+.left {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.right {
+    text-align: left;
+}
+
+.right a,
+#remme {
+    font-size: small;
+}
